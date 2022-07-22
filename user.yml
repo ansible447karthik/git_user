@@ -1,0 +1,6 @@
+users:
+  - name: jeff
+    group: guests
+
+  - name: manish
+    group: manager
