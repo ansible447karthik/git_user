@@ -1,3 +1,5 @@
 [web]
 node1
 
+[dev]
+node3

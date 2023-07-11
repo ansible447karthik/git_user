@@ -5,4 +5,5 @@ users:
   - name: manish
     group: manager
 
-
+  - name: bob
+    group: developer
